@@ -30,7 +30,7 @@ loop do
    sleep (0.5)
    puts "Turn"
   sleep (1)
-end
+ end
 
 def how_many_steps?
   # Write a loop that fulfills all criteria from Part 3 of the README.md
